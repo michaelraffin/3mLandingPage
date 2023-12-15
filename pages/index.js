@@ -50,7 +50,7 @@ export default function Home() {
       // }}
       />
       <Head>
-        <title>3m - Media Solution</title>
+        <title>3m - Visual Solution</title>
         <link rel="icon" href="/favicon.png" />
       </Head>
       <Header />
