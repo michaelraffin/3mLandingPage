@@ -59,7 +59,7 @@ export default function Header() {
           </a> 
            
           <a
-            href="https://action.smartdeskph.com/"
+            href="https://action.3meventsph.com/"
             class="mr-11 pr-2 cursor-pointer text-gray-300 hover:text-white font-semibold tr04"
           >Booking
           </a> 

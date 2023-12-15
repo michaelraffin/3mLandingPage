@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="max-w-5xl xl:max-w-5xl mx-auto divide-y divide-gray-900 px-4 sm:px-6 md:px-8">
         <ul className="text-sm font-medium sm:pb-20 grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-y-10">
           <li className="space-y-5 row-span-2">
-            <h2 className="text-2xl tracking-wide text-white">SmartDesk</h2>
+            <h2 className="text-2xl tracking-wide text-white">3mevents</h2>
             <ul className="space-y-4 text-md">
               <li>
                 <a
@@ -26,7 +26,7 @@ export default function Footer() {
               <li>
                 <a
                   className="hover:text-white transition-colors duration-200 text-xl"
-                  href="https://blog.smartdeskph.com"
+                  href="https://blog.3mevents.com"
                 >
                   Stories
                 </a>
@@ -39,7 +39,7 @@ export default function Footer() {
             <li>
                 <a
                   className="hover:text-white transition-colors duration-200 text-xl"
-                  href="https://store.smartdeskph.com/"
+                  href="https://store.3mevents.com/"
                 >
                     Main Store 
                 </a>
@@ -106,7 +106,7 @@ export default function Footer() {
               <li>
                 <a
                   className="hover:text-white transition-colors duration-200 text-xl"
-                  href="https://www.linkedin.com/company/smartdeskph/"
+                  href="https://www.linkedin.com/company/3mevents/"
                 >
                   LinkedIn
                 </a>
@@ -122,7 +122,7 @@ export default function Footer() {
               <li>
                 <a
                   className="hover:text-white transition-colors duration-200 font-semibold text-xl"
-                  href="https://www.instagram.com/smartdesk.ph/"
+                  href="https://www.instagram.com/3mevents.ph/"
                 >
                   Instagram
                 </a>
@@ -178,7 +178,7 @@ export default function Footer() {
               href="/"
               className="text-md text-gray-200 hover:text-white transition-colors duration-300 hover:text-deep-purple-accent-400 font-semibold tracking-tight"
             >
-              © 2020 SmartDeskPh
+              © 2020 3mevents
             </a>
           </ul>
         </div>

@@ -21,7 +21,7 @@ export default function Main() {
    
     try {
   
-      const data = {storeOwner:"SmartDeskQuestion",cType:"GenerativeAIQuestion",cName:"question","itemQuestion":searched,"date":new Date()}
+      const data = {storeOwner:"3meventsQuestion",cType:"GenerativeAIQuestion",cName:"question","itemQuestion":searched,"date":new Date()}
       const response = await axios.put('https://different-goat-long-underwear.cyclic.cloud/items', data) 
       return  response
     } catch (error) {
@@ -61,7 +61,7 @@ function validateTypeButton(){
   return (
     <section class="text-gray-600 body-font">
         <Head>
-   {searched === null ?null:<title>SmartDeskPH - {searched}</title> }
+   {searched === null ?null:<title>3meventsPH - {searched}</title> }
    </Head>
       <div class="max-w-5xl pt-52 pb-24 mx-auto">
         <h1 class="lg:text-8xl text-4xl md:text-8xl text-center font-4 lh-6 ld-04 font-bold text-white mb-6">
@@ -76,7 +76,7 @@ function validateTypeButton(){
           
           <a
            target="_blank"
-           href="https://store.smartdeskph.com"
+           href="https://store.3meventsph.com"
             className="rounded-full inline-flex items-center py-2 font-semibold text-white transition duration-500 ease-in-out transform bg-transparent bg-blue-500 lg:px-7 md:px-7 text-md md:mt-0 hover:text-black  hover:bg-white focus:shadow-outline"
             
           >
@@ -87,7 +87,7 @@ function validateTypeButton(){
           {/* <a
           target="_blank"
             className="rounded-full  inline-flex items-center py-3 font-semibold tracking-tighter text-white transition duration-500 ease-in-out transform bg-transparent   ml-2 md:ml-11 bg-gradient-to-r from-blue-500 to-blue-800 px-14 text-md md:mt-0 focus:shadow-outline"
-            href="https://store.smartdeskph.com"
+            href="https://store.3meventsph.com"
           >
             <div className="flex text-lg">
               <span className="justify-center">Purchase</span>
@@ -145,7 +145,7 @@ function validateTypeButton(){
           
           <a
            target="_blank"
-           href="https://action.smartdeskph.com"
+           href="https://action.3meventsph.com"
             className="rounded-full inline-flex items-center py-3 font-semibold text-black transition duration-500 ease-in-out transform bg-transparent bg-white lg:px-7 md:px-7 text-md md:mt-0 hover:text-black hover:bg-white focus:shadow-outline"
             
           >
@@ -241,7 +241,7 @@ function validateTypeButton(){
             />{" "}
             <a
               class="inline-flex items-center px-14 py-3 mt-2 ml-2 font-medium text-black transition duration-500 ease-in-out transform bg-transparent border rounded-full bg-white"
-              href="mailto:sales.smartdeskph@gmailc.om?subject=Inquerty"
+              href="mailto:sales.3meventsph@gmailc.om?subject=Inquerty"
             >
               <span class="justify-center">Subscribe</span>
             </a>
