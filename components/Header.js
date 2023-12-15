@@ -12,7 +12,7 @@ export default function Header() {
           <a
             href="/"
             class="flex text-3xl text-white font-bold mb-4 md:mb-0"
-          >  <img class="w-24  h-auto"src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1702645452833-Screenshot%202023-12-15%20at%209.04.04%20PM.png"/>
+          >  <img class="w-24  h-auto"src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1702655031335-webLogo.png"/>
           </a>
         
           <button
