@@ -65,25 +65,15 @@ function validateTypeButton(){
    </Head>
       <div class="max-w-5xl pt-52 pb-24 mx-auto">
         <h1 class="lg:text-8xl text-4xl md:text-8xl text-center font-4 lh-6 ld-04 font-bold text-white mb-6">
-Build your dream workspace
+            Your Visual Solutions.
         </h1>
         <h2 class="lg:text-2xl md:text-2xl text-1xl font-4 font-semibold lh-6 ld-04 pb-11 text-gray-700 text-center">
        {/* Your not t/ypical desk,   with our dual motor standing desk
           <br /> */}
-          Built for professional creators.
+          Convert your idea to reality.
         </h2>
         <div class="max-w-6xl mx-auto px-4 sm:px-6 text-center mt-20">
           
-          {/* <a
-           target="_blank"
-           href="https://action.smartdeskph.com"
-            className="rounded-full inline-flex items-center py-3 font-semibold text-black transition duration-500 ease-in-out transform bg-transparent bg-white lg:px-7 md:px-7 text-md md:mt-0 hover:text-black hover:bg-white focus:shadow-outline"
-            
-          >
-            <div className="flex text-lg font-light">
-              <span className="justify-center ml-2 mr-4 lg:ml-0 lg:mr-0">View in action</span>
-            </div>
-          </a> */}
           <a
            target="_blank"
            href="https://store.smartdeskph.com"
@@ -104,7 +94,7 @@ Build your dream workspace
             </div>
           </a> */}
             <h2 class={`lg:text-lg  text-1xl mt-10 font-4 font-semibold lh-6 ld-04 pb-11 text-white text-center`}>
-         From  ₱23,800
+       Contact us
         </h2>
         </div>
         {/* <div className='w-1/2 fixed bottom-40 z-40  bg-transparent flex  items-center lg:ml-0 ml-20   justify-center '>
@@ -114,7 +104,8 @@ Build your dream workspace
         </div>
         */}
       </div>
-      <div class="fixed ml-20 flex-col bottom-20 right-auto z-40  flex items-center justify-center'">
+      
+      {/* <div class="fixed ml-20 flex-col bottom-20 right-auto z-40  flex items-center justify-center'">
         <textarea 
         value={answer} class={` pr-4 pl-4  py-3 px-3 w-full text-md  ${answer == null  ? 'text-black border-white border-2  hidden' : 'visible bg-white h-60  text-black border-white border-2 '} bg-transparent rounded-lg right-auto `}>
         </textarea>
@@ -131,22 +122,23 @@ Build your dream workspace
    
           </div>
        {isHide ?  <span className='text-xs text-white mt-2'>Powered by Generative AI</span>: null}  
-             </div>
+             </div> */}
       <div className="container flex flex-col items-center justify-center mx-auto">
         <img
           className="object-cover rounded-lg object-center w-3/4 mb-10 hover:border-white hover:border shadow-md g327"
           alt="StandingDesk #1"
-          src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1678705394093-175870566_821692705405057_8076442475726502893_n.jpeg"
+          src="https://i.pinimg.com/564x/9b/98/bb/9b98bbfcf5c85bb7fdeba697ecf68094.jpg"
         ></img>
-         <img
-          className="object-cover rounded-lg object-center w-3/4 mb-10 hover:border-white hover:border shadow-md g327"
-          alt="StandingDesk #2"
-          src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1678705646928-sample_only_-scaled_cleanup.jpeg"
-        ></img>
+    
          <img
           className="object-cover rounded-lg object-center w-3/4 mb-10 hover:border-white hover:border shadow-md g327"
           alt="StandingDesk #3"
-          src="https://p16-oec-common-useast2a.ibyteimg.com/tos-useast2a-i-hyqnpo4tzp-aiso/68d64bdeef4a4d14bc0001d4cacb09d0~tplv-hyqnpo4tzp-origin-jpeg.jpeg?"
+          src="https://i.pinimg.com/564x/07/0c/7d/070c7da0532e742a5264e41139758bf4.jpg"
+        ></img>
+             <img
+          className="rounded-lg object-center w-3/4  mb-10 hover:border-white hover:border shadow-md g327"
+          alt="StandingDesk #2"
+          src="https://i.pinimg.com/564x/09/62/ee/0962ee218d8b608c81d29a8bef594679.jpg"
         ></img>
       </div>
       <div class="max-w-6xl mx-auto px-4 sm:px-6 text-center mt-20">

@@ -25,7 +25,7 @@ export default function Home() {
 
       }}
         facebook={{appId:"100632342493724"}}
-        title="SmartDeskPH - Home"
+        title="3m - Visual Solutions"
         description="SmartDeskPH is a premium quality automatic standing desk that comes with a solid wood table top and dual silent motors for smooth and quiet operation. With its sleek and modern design, this standing desk allows you to easily switch between sitting and standing positions throughout the workday, promoting a healthier and more productive work experience. Its sturdy construction and advanced features make it an ideal choice for any home or office setting"
         canonical="https://www.smartdeskph.com/"
         siteName = "SmartDeskPh"
@@ -50,7 +50,7 @@ export default function Home() {
       // }}
       />
       <Head>
-        <title>SmartDeskPH - Home</title>
+        <title>3m - Media Solution</title>
         <link rel="icon" href="/favicon.png" />
       </Head>
       <Header />
