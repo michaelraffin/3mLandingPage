@@ -53,15 +53,15 @@ export default function Header() {
           >Home
           </a> 
           <a
-            href="https://store.smartdeskph.com/"
+            href="https://rental.3mevents.com"
             class="mr-11 pr-2 cursor-pointer text-gray-300 hover:text-white font-semibold tr04"
-          >Store
+          >Rental
           </a> 
            
           <a
             href="https://action.smartdeskph.com/"
             class="mr-11 pr-2 cursor-pointer text-gray-300 hover:text-white font-semibold tr04"
-          >Desk
+          >Booking
           </a> 
            
           </div>
