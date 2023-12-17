@@ -10,15 +10,15 @@ export default function Policy() {
     return (
       <div className="text-black bg-black">
         <NextSeo
-        title="SmartDeskPH - Refund and Return Policy"
-        description="Welcome to SmartDeskPH."
+        title="3Mevents - Refund and Return Policy"
+        description="Welcome to 3Mevents."
         canonical="https://nine4-3.vercel.app/"
         openGraph={{
           url: "https://nine4-3.vercel.app/",
         }}
       />
       <Head>
-        <title>SmartDeskPH - Refund and Return Policy</title>
+        <title>3Mevents - Refund and Return Policy</title>
         <link rel="icon" href="/favicon.png" />
       </Head>
       <Header />

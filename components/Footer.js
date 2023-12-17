@@ -23,17 +23,17 @@ export default function Footer() {
                 </a>
               </li>{" "} */}
             
-              <li>
+              {/* <li>
                 <a
                   className="hover:text-white transition-colors duration-200 text-xl"
                   href="https://blog.3mevents.com"
                 >
                   Stories
                 </a>
-              </li>
+              </li> */}
             </ul>
           </li>
-          <li className="space-y-5 row-span-2">
+          {/* <li className="space-y-5 row-span-2">
             <h2 className="text-2xl tracking-wide text-white">E-Store</h2>
             <ul className="space-y-4">
             <li>
@@ -62,7 +62,7 @@ export default function Footer() {
               </li>
               
             </ul>
-          </li>
+          </li> */}
           <li className="space-y-5 row-span-2">
             <h2 className="text-2xl tracking-wide text-white">Products</h2>
             <ul className="space-y-4">
@@ -71,7 +71,7 @@ export default function Footer() {
                   className="hover:text-white transition-colors duration-200 text-xl"
                   href="/"
                 >
-                  Standing Desk
+                  LED Wall Rental
                 </a>
               </li>
               <li>
@@ -79,7 +79,7 @@ export default function Footer() {
                   className="hover:text-white transition-colors duration-200 text-xl"
                   href="/"
                 >
-                  Table Tops
+                  Lights and Sounds
                 </a>
               </li>
               <li>
@@ -87,7 +87,7 @@ export default function Footer() {
                   className="hover:text-white transition-colors duration-200 text-xl"
                   href="/"
                 >
-                  Monitor Riser
+                  Good for Seminars
                 </a>
               </li>
               <li>
@@ -95,12 +95,12 @@ export default function Footer() {
                   className="hover:text-white transition-colors duration-200 text-xl"
                   href="/"
                 >
-                  Cable Management
+                  Corporate Events
                 </a>
               </li>
             </ul>
           </li>
-          <li className="space-y-5">
+          {/* <li className="space-y-5">
             <h2 className="text-2xl tracking-wide text-white">Connect</h2>
             <ul className="space-y-4">
               <li>
@@ -128,7 +128,7 @@ export default function Footer() {
                 </a>
               </li>
             </ul>
-          </li>
+          </li> */}
         </ul>
         <div className="flex flex-col-reverse justify-between pt-5 pb-4 border-t lg:flex-row bg-top border-black">
           <ul className="flex flex-col space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row">

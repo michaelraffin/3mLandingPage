@@ -26,13 +26,15 @@ function PolicyContent(props) {
  {/* <h2>Privacy Policy</h2> */}
  
 
-  <p class="text-white text-lg">SmartdeskPh is a business dedicated to helping people work better and live healthier lives. We started our business during the pandemic when many people found themselves working from home or in need of a better workspace. We believe that a great workspace can have a positive impact on productivity, creativity, and well-being.</p>
+  <p class="text-white text-lg">Welcome to 3M Visual, where passion meets perfection in the vibrant world of events and flowers. With two decades of unwavering dedication to the events and flower shop industries, we stand proud as pioneers in this ever-evolving landscape.</p>
   <div class="mt-10"/><div class="mt-10"/>
   {/*  <p class="text-white text-lg">We take your privacy seriously. This privacy policy describes how we collect, use, and protect your personal information.</p> */}
   {/* <h3 class="text-white text-2xl font-bold">1. Information We Collect</h3> */}
-  <p class="text-white text-lg">Our flagship product is our standing desk with a solid wood tabletop. Our desks are designed to be beautiful, durable, and functional. We believe that furniture should be built to last, and we use only the highest quality materials in our desks.</p>
-  <div class="mt-10"/><div class="mt-10"/>
-  <p class="text-white text-lg">We are a family-owned business and we take pride in our work. Our desks are handcrafted in our workshop in the Philippines, with our very talented partners and suppliers that have been making furniture for over 20 years. We believe in supporting our local community and we work with local suppliers whenever possible.</p>
+  <p class="text-white text-lg">Our journey began 20 years ago with a simple dream – to create memorable experiences and infuse joy into people's lives through the enchanting beauty of flowers. What started as a humble venture has blossomed into a rich tapestry of expertise and creativity.
+
+</p>
+  {/* <div class="mt-10"/><div class="mt-10"/>
+  <p class="text-white text-lg">Having mastered the art of curating enchanting floral arrangements, we've been the go-to destination for those seeking the perfect touch of nature's beauty for their special occasions. Our commitment to quality, creativity, and customer satisfaction has been the driving force behind our success.</p> */}
 
 
 
@@ -40,10 +42,16 @@ function PolicyContent(props) {
 
 
   <div class="mt-10"/><div class="mt-10"/>
-  <p class="text-white text-lg">At SmartdeskPh, we are committed to providing our customers with the best possible experience. We offer free shipping and a 30-day money-back guarantee on all of our products. We also provide excellent customer support and are always happy to answer any questions you may have.</p>
+  <p class="text-white text-lg">Now, as we celebrate our 20th year in the business, we are excited to announce a new chapter in our story. Embracing the evolution of events, we are proud to introduce visual events to our diverse portfolio. From stunning floral designs to captivating visual experiences, we're expanding our offerings to ensure every celebration is a masterpiece of creativity and innovation.</p>
+
+
 
   <div class="mt-10"/><div class="mt-10"/>
-  <p class="text-white text-lg">Thank you for considering SmartdeskPh for your workspace needs. We look forward to helping you create a better workspace and a healthier life.</p>
+  <p class="text-white text-lg">At 3MVisual, we understand the power of visual storytelling. Our team of seasoned professionals brings years of expertise to craft immersive and visually striking events that leave a lasting impression. Whether it's a wedding, corporate gathering, or any special occasion, we are dedicated to transforming your vision into a breathtaking reality.</p>
+
+  <div class="mt-10"/><div class="mt-10"/>
+  <p class="text-white text-lg">Join us on this exciting journey as we continue to set new standards in the events and flowershop industries. With two decades of experience behind us and a fresh perspective guiding us forward, 3MVisual is your trusted partner for unforgettable moments and extraordinary visual experiences.</p>
+
 
 </div>
 

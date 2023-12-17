@@ -9,18 +9,18 @@ function PolicyContent(props) {
         <div class="max-w-6xl mx-auto px-4 sm:px-6 text-center">
           <div class="py-24 md:py-36">
             <h1 class="mb-5 text-6xl font-bold text-white">
-            SmartDeskPh 
+            3MEvents 
             </h1>
             <div class="space-y-4">
                 </div>
                 <h1 class="mb-5  text-2xl font-bold text-white">
-                Return and Refund Policy:
+                Cancellation and Refund Policy:
                 </h1>
                 <p class="text-md text-white">
-                We at SmartDeskPh want you to be completely satisfied with your purchase. If you are not satisfied with your furniture purchase, you may return it within 2 days of the delivery date for a refund or exchange. Please note that we cannot accept returns or exchanges of custom-made or personalized items.
+                We at 3Mevents want you to be completely satisfied with your Please be aware that in the event of a cancellation, only 80% of the original payment will be refunded. This deduction accounts for processing fees and administrative costs associated with handling returns. We appreciate your understanding and cooperation. If you have any questions or concerns regarding this policy, feel free to contact our customer service team at sales.3Mevents@gmail.com
                 </p>
 
-        <div class="mt-10"/>
+        {/* <div class="mt-10"/>
                 <p class="text-md text-white ">
                 To initiate a return, please contact our customer service team by phone or email. We will provide you with a Return Authorization Number and instructions on how to return the item. Please make sure to return the item in its original condition, with all parts and accessories included. We reserve the right to refuse returns that are damaged, incomplete, or not in their original packaging.
                 </p>
@@ -41,8 +41,8 @@ function PolicyContent(props) {
 
                 <div class="mt-10"/>
                 <p class="text-md text-white">
-                If you have any questions or concerns about our return and refund policy, please contact at sales.smartdeskph@gmail  team.
-                </p>
+                If you have any questions or concerns about our return and refund policy, please contact at sales.3Mevents@gmail  team.
+                </p> */}
 
                 </div>
                 </div>
