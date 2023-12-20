@@ -189,7 +189,7 @@ function validateTypeButton(){
             Don't hesitate to ask. We value every penny you spend.
           </p>
         </div>
-        <div class="ktq4">
+        {/* <div class="ktq4">
           <img className="w-10 bg-white rounded-full" src="https://static-00.iconduck.com/assets.00/emoji-sad-icon-512x512-vomssqlr.png"></img>
           <h3 class="pt-3 font-semibold text-lg text-white">
           Table Top
@@ -197,7 +197,7 @@ function validateTypeButton(){
           <p class="pt-2 value-text text-md text-gray-200 fkrr1">
           We use 100% natural wood for our tabletop.
           </p>
-        </div>
+        </div> */}
       </div>
       <div className="pt-32 pb-32 max-w-6xl mx-auto fsac4 md:px-1 px-3">
         <div class="ktq4">
@@ -205,10 +205,10 @@ function validateTypeButton(){
            class="w-10 rounded-lg bg-white "
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVQwv42ojOtK-wmYVHTnxefl3HvtWJzr4wNjELltVyv7GRRY4juZ-5VWMM-bKBWOAa0-c&usqp=CAU"></img>
           <h3 class="pt-3 font-semibold text-lg text-white">
-              COD
+              Credit Card
           </h3>
           <p class="pt-2 value-text text-md text-gray-200 fkrr1">
-            Pickup at your own peace, contact us for  COD arrangement.
+          Choose us for your LED wall needs, and now enjoy the ease of Credit Card payments.
           </p>
         </div>
         <div class="ktq4">
@@ -219,7 +219,7 @@ function validateTypeButton(){
             BNPL
           </h3>
           <p class="pt-2 value-text text-md text-gray-200 fkrr1">
-           Buy now and Pay later is now possible, comes with 0-5% interest.
+           Book now and Pay later is now possible, comes with 0-5% interest.
           </p>
         </div>
       </div>
