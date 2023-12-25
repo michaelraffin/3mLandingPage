@@ -65,7 +65,7 @@ function validateTypeButton(){
    </Head>
       <div class="max-w-5xl pt-52 pb-24 mx-auto">
         <h1 class="lg:text-8xl text-4xl md:text-8xl text-center font-4 lh-6 ld-04 font-bold text-white mb-6">
-            Your Visual Solutions.
+            Your LED Wall Visual Solution.
         </h1>
         <h2 class="lg:text-2xl md:text-2xl text-1xl font-4 font-semibold lh-6 ld-04 pb-11 text-gray-700 text-center">
        {/* Your not t/ypical desk,   with our dual motor standing desk
