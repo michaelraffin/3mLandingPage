@@ -165,10 +165,10 @@ function validateTypeButton(){
         <div class="ktq4">
           <img className="w-10 rounded-full" src="https://thumbs.dreamstime.com/b/relax-icon-sign-symbol-relax-icon-sign-symbol-design-149595066.jpg"></img>
           <h3 class="pt-3 font-semibold text-lg text-white">
-            Less hassle
+            Streamlined Convenience
           </h3>
           <p class="pt-2 value-text text-md text-gray-200 fkrr1">
-          Dealing with different suppliers just to build your dream desk is a very time-consuming process, now. You only need to settle your down payment and then wait for a couple of weeks.
+          Say goodbye to the tedious process of dealing with multiple suppliers to bring your dream LED wall to life. Now, with our service, all it takes is a simple down payment, and you can sit back while we turn your vision into reality within a few short weeks.
           </p>
         </div>
         <div class="ktq4">
@@ -177,7 +177,7 @@ function validateTypeButton(){
             Premium Quality
           </h3>
           <p class="pt-2 value-text text-md text-gray-200 fkrr1">
-          With the help of our local and international suppliers, we ensure quality and standard desk design.
+          With collaboration from our network of local and international suppliers, we guarantee the delivery of high-quality and standard LED wall setups for your events.
           </p>
         </div>
         <div class="ktq4">
