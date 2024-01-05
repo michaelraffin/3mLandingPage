@@ -213,8 +213,8 @@ function validateTypeButton(){
         </div>
         <div class="ktq4">
           <img 
-          class="w-20 rounded-sm"
-          src="https://www.bworldonline.com/wp-content/uploads/2022/05/BILLEASE-LOGO.jpg"></img>
+          class="w-20 rounded-sm bg-white rounded-lg"
+          src="https://blog.travelkhana.com/tkblog/wp-content/uploads/sites/2/2017/09/UK.png"></img>
           <h3 class="pt-3 font-semibold text-lg text-white">
             BNPL
           </h3>
