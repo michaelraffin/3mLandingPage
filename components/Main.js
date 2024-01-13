@@ -76,7 +76,7 @@ function validateTypeButton(){
           
           <a
            target="_blank"
-           href="https://store.3meventsph.com"
+           href="https://booking.3mvisual.com/"
             className="rounded-full inline-flex items-center py-2 font-semibold text-white transition duration-500 ease-in-out transform bg-transparent bg-blue-500 lg:px-7 md:px-7 text-md md:mt-0 hover:text-black  hover:bg-white focus:shadow-outline"
             
           >
@@ -145,7 +145,7 @@ function validateTypeButton(){
           
           <a
            target="_blank"
-           href="https://action.3meventsph.com"
+           href="https://booking.3mvisual.com/"
             className="rounded-full inline-flex items-center py-3 font-semibold text-black transition duration-500 ease-in-out transform bg-transparent bg-white lg:px-7 md:px-7 text-md md:mt-0 hover:text-black hover:bg-white focus:shadow-outline"
             
           >

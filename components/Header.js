@@ -53,13 +53,13 @@ export default function Header() {
           >Home
           </a> 
           <a
-            href="https://rental.3mevents.com"
+            href="https://booking.3mvisual.com"
             class="mr-11 pr-2 cursor-pointer text-gray-300 hover:text-white font-semibold tr04"
           >Rental
           </a> 
            
           <a
-            href="https://action.3meventsph.com/"
+            href="https://booking.3mvisualph.com/"
             class="mr-11 pr-2 cursor-pointer text-gray-300 hover:text-white font-semibold tr04"
           >Booking
           </a> 
