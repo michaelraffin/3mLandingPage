@@ -128,7 +128,7 @@ export default function Main() {
       <div className="container flex flex-col items-center justify-center mx-auto">
         <div className='w-3/4 mb-20 '>
 
-          <a href="#" class="group relative block bg-black">
+        <a href="javascript:void(0)" class="group relative block bg-black">
             <img
               alt="Developer"
               src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1706083108909-IMG_8926.jpg"
@@ -155,7 +155,7 @@ export default function Main() {
         </div>
         <div className='w-3/4 mb-20 '>
 
-          <a href="#" class="group relative block bg-black">
+          <a href="javascript:void(0)" class="group relative block bg-black">
             <img
               alt="Developer"
               src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1706083697450-Screenshot%202024-01-24%20at%204.08.08%20PM.png"
@@ -189,7 +189,7 @@ export default function Main() {
         ></img> */}
  <div className='w-3/4 mb-20 '>
 
-<a href="#" class="group relative block bg-black">
+ <a href="javascript:void(0)"  class="group relative block bg-black">
   <img
     alt="Developer"
     src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1706062199092-SCHOOL.png"
@@ -215,9 +215,9 @@ export default function Main() {
 </div>
        
 
- <div className='w-3/4 mb-20 '>
+ <div lassName='w-3/4 mb-20 '>
 
-<a href="#" class="group relative block bg-black">
+ <a href="javascript:void(0)"  class="group relative block bg-black">
   <img
     alt="Developer"
     src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1706062285130-BIG.png"
@@ -244,8 +244,7 @@ export default function Main() {
 
 
 <div className='w-3/4 mb-20 '>
-
-<a href="#" class="group relative block bg-black">
+<a href="javascript:void(0)"  class="group relative block bg-black">
   <img
     alt="Developer"
     src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1706062391532-MID.png"
