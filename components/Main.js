@@ -253,7 +253,7 @@ export default function Main() {
   />
   <img class="w-24 mt-10 rounded-lg ml-64 h-24" src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1702655031335-webLogo.png" />
   <div class="relative p-4 sm:p-6 lg:p-8">
-    <p class="text-sm font-medium uppercase tracking-widest text-pink-500">Themed Events</p>
+    <p class="text-sm font-medium uppercase tracking-widest text-pink-500">Your Milestone</p>
 
     <p class="text-xl font-bold text-white sm:text-2xl">ACHIEVEMENTS</p>
 
@@ -281,7 +281,7 @@ export default function Main() {
 
         >
           <div className="flex text-lg font-light">
-            <span className="justify-center ml-2 mr-4 lg:ml-0 lg:mr-0">View in Price</span>
+            <span className="justify-center ml-2 mr-4 lg:ml-0 lg:mr-0 text-xs">View in availability</span>
           </div>
         </a>
       </div>
