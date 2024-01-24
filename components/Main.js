@@ -281,7 +281,7 @@ export default function Main() {
 
         >
           <div className="flex text-lg font-light">
-            <span className="justify-center ml-2 mr-4 lg:ml-0 lg:mr-0 text-xs">View in availability</span>
+            <span className="justify-center ml-2 mr-4 lg:ml-0 lg:mr-0 text-xs">View our availability</span>
           </div>
         </a>
       </div>
