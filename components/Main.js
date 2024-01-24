@@ -133,12 +133,17 @@ function validateTypeButton(){
          <img
           className="object-cover rounded-lg object-center w-3/4 mb-10 hover:border-white hover:border shadow-md g327"
           alt="StandingDesk #3"
-          src="https://i.pinimg.com/564x/07/0c/7d/070c7da0532e742a5264e41139758bf4.jpg"
+          src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1706062199092-SCHOOL.png"
         ></img>
              <img
           className="rounded-lg object-center w-3/4  mb-10 hover:border-white hover:border shadow-md g327"
           alt="StandingDesk #2"
-          src="https://i.pinimg.com/564x/09/62/ee/0962ee218d8b608c81d29a8bef594679.jpg"
+          src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1706062285130-BIG.png"
+        ></img>
+          <img
+          className="rounded-lg object-center w-3/4  mb-10 hover:border-white hover:border shadow-md g327"
+          alt="StandingDesk #2"
+          src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1706062391532-MID.png"
         ></img>
       </div>
       <div class="max-w-6xl mx-auto px-4 sm:px-6 text-center mt-20">
