@@ -9,7 +9,7 @@ function PolicyContent(props) {
         <div class="max-w-6xl mx-auto px-4 sm:px-6 text-center">
           <div class="py-24 md:py-36">
             <h1 class="mb-5 text-6xl font-bold text-white">
-            3MEvents 
+            3M Visual 
             </h1>
             <div class="space-y-4">
                 </div>
@@ -17,7 +17,7 @@ function PolicyContent(props) {
                 Cancellation and Refund Policy:
                 </h1>
                 <p class="text-md text-white">
-                We at 3Mevents want you to be completely satisfied with your Please be aware that in the event of a cancellation, only 80% of the original payment will be refunded. This deduction accounts for processing fees and administrative costs associated with handling returns. We appreciate your understanding and cooperation. If you have any questions or concerns regarding this policy, feel free to contact our customer service team at sales.3Mevents@gmail.com
+                We at 3M Visual want you to be completely satisfied with your Please be aware that in the event of a cancellation, only 80% of the original payment will be refunded. This deduction accounts for processing fees and administrative costs associated with handling returns. We appreciate your understanding and cooperation. If you have any questions or concerns regarding this policy, feel free to contact our customer service team at sales@3mvisual.com
                 </p>
 
         {/* <div class="mt-10"/>
@@ -41,7 +41,7 @@ function PolicyContent(props) {
 
                 <div class="mt-10"/>
                 <p class="text-md text-white">
-                If you have any questions or concerns about our return and refund policy, please contact at sales.3Mevents@gmail  team.
+                If you have any questions or concerns about our return and refund policy, please contact at sales.3M Visual@gmail  team.
                 </p> */}
 
                 </div>

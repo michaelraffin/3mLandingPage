@@ -81,7 +81,7 @@ export default function Main() {
 
           >
             <div className="flex lg:text-lg text-sm font-light">
-              <span className="justify-center ml-2 mr-4 lg:ml-0 lg:mr-0">View pricing</span>
+              <span className="justify-center ml-2 mr-4 lg:ml-0 lg:mr-0 text-xs">Explore costs</span>
             </div>
           </a>
           {/* <a
@@ -93,7 +93,7 @@ export default function Main() {
               <span className="justify-center">Purchase</span>
             </div>
           </a> */}
-          <h2 class={`lg:text-lg  text-1xl mt-10 font-4 font-semibold lh-6 ld-04 pb-11 text-white text-center`}>
+          <h2 class={`text-xs   mt-10 font-4 font-semibold lh-6 ld-04 pb-11 text-white text-center`}>
             Contact us
           </h2>
         </div>

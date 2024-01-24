@@ -63,7 +63,7 @@ function PolicyContent(props) {
   <p class="text-white text-lg">We may update this privacy policy from time to time. We will notify you of any changes by posting the updated policy on our website.</p>
   <div class="mt-10"/>
   <h3 class="text-white text-2xl font-bold">8. Contact Us</h3>
-  <p class="text-white text-lg">If you have any questions or concerns about this privacy policy, please contact us at support@3mevents.com.</p>
+  <p class="text-white text-lg">If you have any questions or concerns about this privacy policy, please contact us at support@3mvisual.com.</p>
 </div>
                 </div>
                 </div>
