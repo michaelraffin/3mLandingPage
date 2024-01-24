@@ -7,22 +7,31 @@ function MyApp({ Component, pageProps }) {
   <Head>
 <meta name="robots" content="nofollow"/>
 <meta name="googlebot" content="noindex"/>
-  <meta name="keywords" content="SmartDeskPh, Standing Desk in Ph ,Autonomous,
-      Smart Desk,
-      Standing Desk,
-      Dual Motor,
-      Sit-stand desk,
-      Dual motor desk,
-      Solid wood desk,
-      Adjustable height desk,
-      Ergonomic desk,
-      Office furniture,
-      Health and wellness,
-      Home office,
-      Automatic Standing Desk,
-      Computer Desk,
-      Computer Gaming Desk,
-      Computer Desk"/>
+<meta name="googlebot" content="noindex" />
+        <meta name="keywords" content="LED wall, LED wall Rental,
+     LED wall,
+     Video wall,
+     Digital signage,
+     LED display,
+     Rental screens,
+     Event technology,
+     Audiovisual solutions,
+     Large format displays,
+     Outdoor LED screen,
+     Indoor LED panel,
+     LED video display,
+     Stage backdrop,
+     Corporate events,
+     Concert visuals,
+     Trade show displays,
+     Multimedia rentals,
+     Display solutions,
+     LED screen rental,
+     Interactive displays,
+     Rental LED panels,
+     Iligan City,
+     Cagayan De Oro City
+     "/>
     </Head>
     <Script 
       strategy="afterInteractive"
