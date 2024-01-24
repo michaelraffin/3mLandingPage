@@ -134,7 +134,7 @@ export default function Main() {
               src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1706083108909-IMG_8926.jpg"
               class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50"
             />
-            <img class="w-24 mt-10 rounded-lg ml-64 h-24" src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1702655031335-webLogo.png" />
+            <img class="w-24 mt-10 rounded-lg ml-20 h-24 hidden lg:block" src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1702655031335-webLogo.png" />
             <div class="relative p-4 sm:p-6 lg:p-8">
               <p class="text-sm font-medium uppercase tracking-widest text-pink-500">Goverments</p>
 
@@ -161,7 +161,7 @@ export default function Main() {
               src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1706083697450-Screenshot%202024-01-24%20at%204.08.08%20PM.png"
               class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50"
             />
-            <img class="w-24 mt-10 rounded-lg ml-64 h-24" src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1702655031335-webLogo.png" />
+            <img class="w-24 mt-10 rounded-lg ml-20 h-24 hidden lg:block" src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1702655031335-webLogo.png" />
             <div class="relative p-4 sm:p-6 lg:p-8">
               <p class="text-sm font-medium uppercase tracking-widest text-pink-500">Private</p>
 
@@ -195,7 +195,7 @@ export default function Main() {
     src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1706062199092-SCHOOL.png"
     class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50"
   />
-  <img class="w-24 mt-10 rounded-lg ml-64 h-24" src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1702655031335-webLogo.png" />
+  <img class="w-24 mt-10 rounded-lg ml-20 h-24 hidden lg:block" src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1702655031335-webLogo.png" />
   <div class="relative p-4 sm:p-6 lg:p-8">
     <p class="text-sm font-medium uppercase tracking-widest text-pink-500">Educational Events </p>
 
@@ -223,7 +223,7 @@ export default function Main() {
     src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1706062285130-BIG.png"
     class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50"
   />
-  <img class="w-24 mt-10 rounded-lg ml-64 h-24" src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1702655031335-webLogo.png" />
+  <img class="w-24 mt-10 rounded-lg ml-20 h-24 hidden lg:block" src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1702655031335-webLogo.png" />
   <div class="relative p-4 sm:p-6 lg:p-8">
     <p class="text-sm font-medium uppercase tracking-widest text-pink-500">Themed Events</p>
 
@@ -251,7 +251,7 @@ export default function Main() {
     src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1706062391532-MID.png"
     class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50"
   />
-  <img class="w-24 mt-10 rounded-lg ml-64 h-24" src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1702655031335-webLogo.png" />
+  <img class="w-24 mt-10 rounded-lg ml-20 h-24 hidden lg:block" src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1702655031335-webLogo.png" />
   <div class="relative p-4 sm:p-6 lg:p-8">
     <p class="text-sm font-medium uppercase tracking-widest text-pink-500">Your Milestone</p>
 
