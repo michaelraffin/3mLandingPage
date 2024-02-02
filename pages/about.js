@@ -10,15 +10,15 @@ export default function Policy() {
     return (
       <div className="text-black bg-black">
         <NextSeo
-        title="Home: SmartDeskPH"
-        description="Welcome to SmartDeskPH."
-        canonical="https://nine4-3.vercel.app/"
+        title="3MVisual - About"
+        description="Welcome to 3MVisual Elevate your events with our versatile venue space, perfect for corporate meetings, conferences, trade shows, expos, networking events, product launches, team-building activities, workshops, training sessions, gala dinners"
+        canonical="https://www.3mvisual.com"
         openGraph={{
-          url: "https://nine4-3.vercel.app/",
+          url: "https://www.3mvisual.com",
         }}
       />
       <Head>
-        <title>SmartDeskPH - About Us</title>
+        <title>3MVisual - About Us</title>
         <link rel="icon" href="/favicon.png" />
       </Head>
       <Header />

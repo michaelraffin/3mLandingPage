@@ -9,13 +9,13 @@ export default function Contact() {
       <NextSeo
         title="404: nine4"
         description="404 page for all our missing pages"
-        canonical="https://nine4-3.vercel.app/404"
+        canonical="https://www.3mvisual.com"
         openGraph={{
-          url: "https://nine4-3.vercel.app/404",
+          url: "https://www.3mvisual.com",
         }}
       />
       <Head>
-        <title>nine4</title>
+        <title>3MVisual</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
