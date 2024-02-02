@@ -10,7 +10,7 @@ export default function Policy() {
     return (
       <div className="text-black bg-black">
         <NextSeo
-        title="3mVisual - Refund and Return Policy"
+        title="3MVisual - Refund and Return Policy"
         description="Welcome to 3mVisual Elevate your events with our versatile venue space, perfect for corporate meetings, conferences, trade shows, expos, networking events, product launches, team-building activities, workshops, training sessions, gala dinners"
         canonical="https://www.3mvisual.com"
         openGraph={{
