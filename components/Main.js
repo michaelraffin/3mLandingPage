@@ -205,8 +205,9 @@ export default function Main() {
           <a href="javascript:void(0)" class="group relative block bg-black">
             <img
               alt="Developer"
-              src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1706083697450-Screenshot%202024-01-24%20at%204.08.08%20PM.png"
-              class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50"
+              src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1724429807543-456330700_430023056850542_3154889259620322067_n.jpg"
+              // src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1706083697450-Screenshot%202024-01-24%20at%204.08.08%20PM.png"
+              class="absolute inset-0 h-full w-full object-cover mb-20 opacity-75 transition-opacity group-hover:opacity-50"
             />
             <img
               class="ml-20 mt-10 hidden h-24 w-24 rounded-lg lg:block"
@@ -214,7 +215,7 @@ export default function Main() {
             />
             <div class="relative p-4 sm:p-6 lg:p-8">
               <p class="text-sm font-medium uppercase tracking-widest text-pink-500">
-                Private
+                DICT
               </p>
 
               <p class="text-xl font-bold text-white sm:text-2xl">TALK</p>
@@ -222,13 +223,12 @@ export default function Main() {
               <div class="mt-32 sm:mt-48 lg:mt-64">
                 <div class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
                   <p class="w-full text-sm text-white">
-                    Establish partnerships with event planning companies or
-                    organizations that organize. Talks are indeed presentations
-                    that cover a wide range of topics, including technology,
-                    entertainment, and design, as well as science, business, and
-                    various global issues. These talks are usually delivered by
-                    experts, thought leaders, and innovators in their respective
-                    fields.
+                    DICT Region 10 HackForGov 2023 Regional Qualifying Round, a
+                    cybersecurity competition specifically designed for college
+                    and university students in Northern Mindanao, Philippines.
+                    Hosted by the Department of Information and Communications
+                    Technology (DICT) Region 10, this event challenges students
+                    to participate in a Capture the Flag (CTF) competition.
                   </p>
                 </div>
               </div>
@@ -241,7 +241,7 @@ export default function Main() {
           alt="StandingDesk #1"
           src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1706083697450-Screenshot%202024-01-24%20at%204.08.08%20PM.png"
         ></img> */}
-        <div className="mb-20 w-3/4 ">
+        <div className="mb-20 w-3/4  lg:mt-40  mt-2 ">
           <a href="javascript:void(0)" class="group relative block bg-black">
             <img
               alt="Developer"
