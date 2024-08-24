@@ -218,7 +218,7 @@ export default function Main() {
                 DICT
               </p>
 
-              <p class="text-xl font-bold text-white sm:text-2xl">TALK</p>
+              <p class="text-xl font-bold text-white sm:text-2xl">CONFERENCE</p>
 
               <div class="mt-32 sm:mt-48 lg:mt-64">
                 <div class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
